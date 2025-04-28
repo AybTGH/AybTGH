@@ -35,6 +35,9 @@
 </div>
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elasticsearch on Windows: What Went Wrong and How I Fixed It](https://medium.com/@toudghi.ayoub/elasticsearch-on-windows-installation-and-troubleshooting-07a3cc21d72c?source=rss-2efa69a10cad------2)
+- [Connecting Spring Boot and Kafka Across Machines](https://medium.com/@toudghi.ayoub/connecting-spring-boot-and-kafka-across-machines-d72b47e07257?source=rss-2efa69a10cad------2)
+- [Using AI to Identify the Best Strikers in Football](https://medium.com/@toudghi.ayoub/we-have-been-asked-to-identify-the-best-strikers-in-football-5c3d8ca29f3a?source=rss-2efa69a10cad------2)
 <!-- BLOG-POST-LIST:END -->
 
 
