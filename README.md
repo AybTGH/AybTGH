@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{AybTGH}/count.svg" alt="Visitor's Count" />
+  <img src="https://shields.io/badge/Visitors-Loading...-blue" alt="Visitor count (static placeholder)">
 </div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+AybTGH!;" />
@@ -20,9 +20,12 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=AybTGH&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="AybTGH's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AybTGH&theme=transparent&count_private=true&border_radius=10&locale=en" alt="AybTGH's GitHub Streak" />
+  
+  <img width="390" src="https://streak-stats.demolab.com?user=AybTGH&theme=transparent&count_private=true&border_radius=10&locale=en" alt="AybTGH's GitHub Streak" />
+  
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=AybTGH&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="AybTGH's Most Used Languages" />
 </div>
+
 
 
 ## 🐍 My Contributions
