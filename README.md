@@ -20,11 +20,12 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=AybTGH&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="AybTGH's GitHub Stats" />
-  
-  <img width="390" src="https://streak-stats.demolab.com?user=AybTGH&theme=transparent&count_private=true&border_radius=10&locale=en" alt="AybTGH's GitHub Streak" />
-  
+
+  <img width="390" src="https://github-readme-streak-stats-eight.vercel.app?user=AybTGH&theme=transparent&count_private=true&border_radius=10&locale=en" alt="AybTGH's GitHub Streak" />
+
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=AybTGH&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="AybTGH's Most Used Languages" />
 </div>
+
 
 
 
