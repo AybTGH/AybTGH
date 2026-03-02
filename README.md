@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+;+I'm+AybTGH!;" />
 </h1>
 
-### A passionate developer exploring the realms of data science and AI.
+### A passionate developer crafting data pipelines and exploring data science & AI.
 
 
 ## 🛠️ Languages and Tools
